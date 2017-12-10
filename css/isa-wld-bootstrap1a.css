@@ -55,10 +55,15 @@
 }
 
 .container{
-    margin: 6% auto;
+    margin: 3% auto;
 }
 
 .ooicon-section{
+}
+
+.ooicon-section h2{
+    margin-bottom: 30px;
+    font-size:3em;
 }
 
 .ooicon-section h5 span{
@@ -95,6 +100,10 @@ footer .fa{
 footer .fa:hover{
     color:#d5d5d5;
     text-decoration: none;
+}
+footer .foot-logo{
+    max-width: 100px;
+    margin: 1% auto;
 }
 
 @media (max-width: 900px){
